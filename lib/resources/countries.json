@@ -1,4 +1,4 @@
-[ 
+[
   {
     "name": "Albania (Shqipëri)",
     "iso2": "al",
@@ -7,8 +7,8 @@
     "areaCodes": null
   },
   {
-    "name": "Kosova",
-    "iso2": "xks",
+    "name": "Kosovo",
+    "iso2": "ks",
     "dialCode": "383",
     "priority": 0,
     "areaCodes": null
@@ -819,7 +819,7 @@
   {
     "name": "Kazakhstan (Казахстан)",
     "iso2": "kz",
-    "dialCode": "77",
+    "dialCode": "7",
     "priority": 1,
     "areaCodes": null
   },
@@ -1651,7 +1651,7 @@
     "dialCode": "971",
     "priority": 0,
     "areaCodes": null
-  },  
+  },
   {
     "name": "United Kingdom",
     "iso2": "gb",
