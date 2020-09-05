@@ -1,15 +1,22 @@
 [ 
   {
-    "name": "Afghanistan (‫افغانستان‬‎)",
-    "iso2": "af",
-    "dialCode": "93",
+    "name": "Albania (Shqipëri)",
+    "iso2": "al",
+    "dialCode": "355",
     "priority": 0,
     "areaCodes": null
   },
   {
-    "name": "Albania (Shqipëri)",
-    "iso2": "al",
-    "dialCode": "355",
+    "name": "Kosova",
+    "iso2": "xks",
+    "dialCode": "383",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Afghanistan (‫افغانستان‬‎)",
+    "iso2": "af",
+    "dialCode": "93",
     "priority": 0,
     "areaCodes": null
   },
